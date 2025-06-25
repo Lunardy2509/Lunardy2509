@@ -1,6 +1,6 @@
 <!-- Banner Image (replace with your own image URL) -->
 <p align="center">
-  <img src="https://your-image-url.com/banner.png" alt="Ferdinand Lunardy Banner" width="100%">
+  <img src="hhttps://github.com/Lunardy2509/Lunardy2509/blob/main/Lunardy2509%20Github%20Banner.png" alt="Ferdinand Lunardy Banner" width="50%">
 </p>
 
 <h2 align="center">Hi! I'm a computer engineer graduate and currently a student in Apple Developer Academy Cohort 8 @BINUS</h2>
@@ -12,16 +12,8 @@
 ---
 -->
 
-### ▼ More Info
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🎯 Most Used Languages</h3>
-      <img src="![Lunardy2509's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lunardy2509&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)" />
-    </td>
-  </tr>
-</table>
+### 🎯 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lunardy2509&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!-- Footer (Contact Section) -->
 <p align="center">Contact me!</p>
