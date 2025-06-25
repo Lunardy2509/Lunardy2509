@@ -5,11 +5,12 @@
 
 <h2 align="center">Hi! I'm a computer engineer graduate and currently a student in Apple Developer Academy Cohort 8 @BINUS</h2>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Hmm.+I+am+who+I+am%2C+after+all%2C+and+I+wish+people+could+just+understand+me+better." alt="Typing SVG" />
 </p>
 
 ---
+-->
 
 ### ▼ More Info
 
