@@ -22,19 +22,6 @@
   </tr>
 </table>
 
----
-
-### ⏱ WakaTime Stats
-
-<!-- Optional: WakaTime Badge -->
-[![wakatime](https://wakatime.com/badge/user/your-wakatime-id.svg)](https://wakatime.com/@your-wakatime-id)
-
-<!-- Weekly WakaTime Stats -->
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-id&theme=radical)
-
----
-
-<!-- Footer (Optional) -->
 <!-- Footer (Contact Section) -->
 <p align="center">Contact me!</p>
 
