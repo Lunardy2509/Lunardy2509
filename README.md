@@ -16,12 +16,8 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>💻 Ferdinand Lunardy's GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
-    </td>
-    <td width="50%">
       <h3>🎯 Most Used Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" />
+      <img src="![Lunardy2509's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lunardy2509&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)" />
     </td>
   </tr>
 </table>
