@@ -1,20 +1,24 @@
-<!-- Banner Image (replace with your own image URL) -->
+<!-- Banner Image -->
 <p align="center">
   <img src="https://github.com/Lunardy2509/Lunardy2509/blob/main/Lunardy2509%20Github%20Banner.png" alt="Ferdinand Lunardy Banner" width="30%">
 </p>
 
 <h2 align="center">Hi! I'm a computer engineer graduate and currently a student in Apple Developer Academy Cohort 8 @BINUS</h2>
 
-<!-- <p align="center">
+<!-- Optional Typing Text
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Hmm.+I+am+who+I+am%2C+after+all%2C+and+I+wish+people+could+just+understand+me+better." alt="Typing SVG" />
 </p>
-
----
 -->
-<p align="center">
+
+<!-- Centered GitHub Top Languages -->
+<div align="center">
+
 ### 🎯 Most Used Languages
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lunardy2509&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-</p>
+
+</div>
 
 <!-- Footer (Contact Section) -->
 <p align="center">Contact me!</p>
