@@ -21,7 +21,7 @@
 </div>
 
 <!-- Footer (Contact Section) -->
-<p align="center">Contact me!</p>
+<p align="center">Check This Out!</p>
 
 <p align="center">
   <a href="https://www.instagram.com/ferdinand_lunardy" target="_blank">
