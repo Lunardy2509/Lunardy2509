@@ -20,8 +20,14 @@
 
 </div>
 
+<!-- Portfolio Website Link -->
+<p align="center">
+  🚀 Check out my portfolio site:  
+  <a href="https://lunardy2509.github.io" target="_blank"><strong>web portfolio</strong></a>
+</p>
+
 <!-- Footer (Contact Section) -->
-<p align="center">Check This Out!</p>
+<p align="center">Connect with me!</p>
 
 <p align="center">
   <a href="https://www.instagram.com/ferdinand_lunardy" target="_blank">
