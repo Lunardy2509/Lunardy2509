@@ -1,9 +1,8 @@
 <!-- Banner Image -->
-<!--
+
 <p align="center">
-  <img src="https://github.com/Lunardy2509/Lunardy2509/blob/main/Lunardy2509%20Github%20Banner.png" alt="Ferdinand Lunardy Banner" width="30%">
+  <img src="https://github.com/Lunardy2509/Lunardy2509/blob/main/Github%20Banner.png" alt="Ferdinand Lunardy Banner" width="80%">
 </p>
--->
 
 <h2 align="center">Hi! I'm a computer engineer graduate and currently a student in Apple Developer Academy Cohort 8 @BINUS</h2>
 
