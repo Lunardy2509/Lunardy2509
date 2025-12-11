@@ -15,15 +15,15 @@
 <!-- Centered GitHub Top Languages -->
 <div align="center">
 
-### 🎯 Most Used Languages
+### Most Used Programming Languages
 
-![Lunardy2509's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lunardy2509&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![Lunardy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lunardy2509&show_icons=true)
 
 </div>
 
 <!-- Portfolio Website Link -->
 <p align="center">
-  🚀 Check out my portfolio site:  
+  Check out my portfolio website:  
   <a href="https://lunardy2509.github.io" target="_blank"><strong>web portfolio</strong></a>
 </p>
 
@@ -34,10 +34,10 @@
   <a href="https://www.instagram.com/ferdinand_lunardy" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
+  <a href="https://bio.link/ferdinandlunardy" target="_blank">
+    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="LinkTree"/>
+  </a>
   <a href="https://www.linkedin.com/in/ferdinand-lunardy-503648219/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.youtube.com/@ferdinandlunardy867" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
