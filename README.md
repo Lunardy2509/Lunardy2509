@@ -17,7 +17,7 @@
 
 ### Most Used Programming Languages
 
-![Lunardy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lunardy2509&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lunardy2509&langs_count=8)
 
 </div>
 
