@@ -4,7 +4,7 @@
   <img width="75%" alt="Github Banner v2 0" src="https://github.com/user-attachments/assets/e6abe495-04af-456d-9d96-4fccee0f07be" alt="Ferdinand Lunardy Banner"/>
 </p>
 
-<h2 align="center">Hi! I'm a Computer Engineer Graduate and currently a student in Apple Developer Academy Cohort 8 @BINUS</h2>
+<h2 align="center">Hi! I'm a Computer Engineer Graduate and an Alumni of Apple Developer Academy Cohort 8 @ BINUS Tangerang, Indonesia</h2>
 
 <!-- Optional Typing Text
 <p align="center">
